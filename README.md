@@ -1,3 +1,3 @@
 # datasciencecoursera
-### Repo criado durante o Course Project do curso Data Scientist Toolbox
-### Primeira alteração feita no arquivo readme
+### Repo created during the Course Project for Data Scientist Toolbox course
+### First change made on readme file
